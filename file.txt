@@ -1,0 +1,9 @@
+Para exibir os dados do JSON, é necessário ter um programa para visualização Insominia
+
+https://support.insomnia.rest/article/23-installation#linux
+
+Para trabalhar com migrations usar
+
+-> npx knex (exibirá comandos de migrações)
+
+->npm run knex:migrate (executará as migrations)
